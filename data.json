@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "title": "Burger",
+        "price": "25.00",
+        "delivery_time": "30 ",
+        "image": "🍔"
+    },
+    {
+        "id": 2,
+        "title": "Rice, Salad, and Chicken",
+        "price": "20.00",
+        "delivery_time": "30 ",
+        "image": "🍲"
+    },
+    {
+        "id": 3,
+        "title": "Vegitable Pizza[mid-size]",
+        "price": "80.00",
+        "delivery_time": "45 ",
+        "image": "🍕"
+    },
+    {
+        "id": 4,
+        "title": "French Fries , Chicken and 1litre Of Coke",
+        "delivery_time": "10 ",
+        "price": "20.00",
+        "image": "🍟"
+    },
+    {
+        "id": 5,
+        "title": "Noodles with meat and egg",
+        "delivery_time": "20 ",
+        "price": "18.00",
+        "image": "🍝"
+    },
+    {
+        "id": 6,
+        "title": "Waakye, salad, egg and meat",
+        "delivery_time": "30 ",
+        "price": "25.00",
+        "image": "🍱"
+    },
+    {
+        "id": 7,
+        "title": "Taco",
+        "delivery_time": "40 ",
+        "price": "15.00",
+        "image": "🌮"
+    },
+    {
+        "id": 8,
+        "title": "Fufu with Light Soup and Goat Meat",
+        "delivery_time": "50 ",
+        "price": "45.00",
+        "image": "🥘"
+    },
+    {
+        "id": 9,
+        "title": "Jollof With 2 Chicken, Salad and Sauce",
+        "delivery_time": "15 ",
+        "price": "27.00",
+        "image": "🥗"
+    },
+    {
+        "id": 10,
+        "title": "HotDogs",
+        "delivery_time": "50 ",
+        "price": "20.00",
+        "image": "🌭"
+    }
+]
